@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				355
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				221
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				248
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				233
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-255,
+				247
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-259,
+				236
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "RunUp",
+			"loop": false,
+			"name": "run"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PJRunning",
+	"position": [
+		-110,
+		40
+	],
+	"healthicon": "drawing-jeffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		370,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				195,
+				419
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jeffy Boogies Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				418
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jeffy Boogies Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				417
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jeffy Boogies Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				419
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jeffy Boogies Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				188,
+				418
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jeffy Boogies Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				418
+			],
+			"anim": "CatPiano",
+			"fps": 24,
+			"name": "CatPianoSolo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				191,
+				418
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Cat Piano Right"
+		},
+		{
+			"offsets": [
+				191,
+				418
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Cat Piano Up"
+		},
+		{
+			"offsets": [
+				195,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Cat Piano Down"
+		},
+		{
+			"offsets": [
+				197,
+				418
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Cat Piano Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JeffyBoogieSprites",
+	"position": [
+		160,
+		490
+	],
+	"healthicon": "jeffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		20
+	],
+	"camera_position": [
+		-380,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

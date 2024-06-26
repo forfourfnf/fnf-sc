@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				77,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leffy jeft"
+		},
+		{
+			"offsets": [
+				46,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Knife",
+			"indices": [],
+			"name": "takeoutknife"
+		},
+		{
+			"offsets": [
+				82,
+				-76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DJ down"
+		},
+		{
+			"offsets": [
+				98,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jef up"
+		},
+		{
+			"offsets": [
+				1,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				21,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "MayonnaiseThrow",
+			"indices": [],
+			"name": "throw mayo"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				21,
+				52
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DJ Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PJSpoonSprites",
+	"position": [
+		230,
+		100
+	],
+	"healthicon": "drawing-jeffy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		-200,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
